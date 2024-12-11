@@ -8,7 +8,7 @@ packages = [{include = "test_mlflow_python3"}]
 
 [tool.poetry.dependencies]
 python = "~3.11"
-mlflow = "^2.18.0"
+mlflow = "^2.19.0"
 boto3 = "^1.35.78"
 
 
